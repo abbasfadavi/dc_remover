@@ -1,0 +1,52 @@
+{
+  'Line_109' => {
+    'CodeInstance' => 'dc_remover_struct/dc_remover_x0/register2',
+    'Instance' => 'register2',
+    'SimulinkInstance' => 'DC_remover/DC remover/Register2'
+  },
+  'Line_122' => {
+    'CodeInstance' => 'dc_remover_struct/dc_remover_x0/relational',
+    'Instance' => 'relational',
+    'SimulinkInstance' => 'DC_remover/DC remover/Relational'
+  },
+  'Line_155' => {
+    'CodeInstance' => 'dc_remover_struct/dc_remover_x0',
+    'Instance' => 'dc_remover_x0',
+    'SimulinkInstance' => 'DC_remover/DC remover'
+  },
+  'Line_179' => {
+    'CodeInstance' => 'dc_remover_default_clock_driver/clockdriver',
+    'Instance' => 'clockdriver',
+    'SimulinkInstance' => ''
+  },
+  'Line_210' => {
+    'CodeInstance' => 'dc_remover_default_clock_driver',
+    'Instance' => 'dc_remover_default_clock_driver',
+    'SimulinkInstance' => ''
+  },
+  'Line_218' => {
+    'CodeInstance' => 'dc_remover_struct',
+    'Instance' => 'dc_remover_struct',
+    'SimulinkInstance' => 'DC_remover'
+  },
+  'Line_29' => {
+    'CodeInstance' => 'dc_remover_struct/dc_remover_x0/addsub1',
+    'Instance' => 'addsub1',
+    'SimulinkInstance' => 'DC_remover/DC remover/AddSub1'
+  },
+  'Line_60' => {
+    'CodeInstance' => 'dc_remover_struct/dc_remover_x0/convert',
+    'Instance' => 'convert',
+    'SimulinkInstance' => 'DC_remover/DC remover/Convert'
+  },
+  'Line_81' => {
+    'CodeInstance' => 'dc_remover_struct/dc_remover_x0/counter2',
+    'Instance' => 'counter2',
+    'SimulinkInstance' => 'DC_remover/DC remover/Counter2'
+  },
+  'Line_96' => {
+    'CodeInstance' => 'dc_remover_struct/dc_remover_x0/register1',
+    'Instance' => 'register1',
+    'SimulinkInstance' => 'DC_remover/DC remover/Register1'
+  }
+}
